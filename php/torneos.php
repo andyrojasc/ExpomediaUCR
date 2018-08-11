@@ -17,26 +17,26 @@
     <!-- navbar -->
  <?php @include('../includes/menu2.php'); ?>
       <!-- navbar -->
-
-      <!-- Imagen del header -->
       <div class="container-fluid">
         <div class="row">
           <div class="imgHeader col-xs-12 col-sm-12 col-md-12 col-lg-12 img-fluid"><img src="../assets/images/torneoHeader.png" alt="Ganadores-pasados-del-torneo-de-League-of-Legends"></div>
         </div>
       </div>
-      <!-- imagen del header -->
     </header>
     <!-- fin del header -->
-
-    <!-- titulo torneos -->
-    <div class="container-fluid">
-     <div class="row">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 titlePage">
-       <h1>TORNEOS</h1>
-     </div>
-   </div>
- </div>
- <!-- fin titulo torneos -->
+<div id="contenido-pagina">
+    <!-- Imagen del header -->
+      
+      <!-- imagen del header -->
+      <!-- titulo torneos -->
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 titlePage">
+            <h1>TORNEOS</h1>
+          </div>
+        </div>
+      </div>
+   <!-- fin titulo torneos -->
  
 
  <!-- Sección de los campeones -->
@@ -92,7 +92,6 @@
    </div>
  </div>
 
-</div>
 </div>
 </section>
 <!-- fin Gandor de los torneos -->
@@ -286,6 +285,7 @@
     <?php @include('../includes/footer.php'); ?>
   </footer> 
 
+  </div>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

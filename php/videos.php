@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="../assets/css/card.css">
 
 
-  <title>Expomedia | Videos</title>
+  <title>Expomedia | Talleres</title>
   <style>
   .grid figure {
     min-width: 100% !important;
@@ -45,7 +45,7 @@
 
     <div class="jumbotron jumbotron-fluid">
       <div class=""><!--container padding-box-->
-        <h1 class="text-center">Talleristas</h1>
+        <h1 class="text-center">Streamings</h1>
       </div>
     </div>
 
@@ -61,12 +61,12 @@
                 <!--Primera linea-->
                 <div class= "carousel-item active" data-interval="0">
                   <div class="video-responsive">
-                    <iframe class="item active" src="https://www.youtube.com/embed/kziIrEOSBNI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe class="item active" src="https://gaming.youtube.com/embed/live_stream?channel=UCHIRfIk580TJ27ybm8pTpLQ&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                   </div>
                 </div>
                 <div class= "carousel-item">
                   <div class="video-responsive">
-                    <iframe class="item active" src="https://www.youtube.com/embed/HqLu-nrH8zE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe class="item active" src="https://gaming.youtube.com/embed/live_stream?channel=UCHIRfIk580TJ27ybm8pTpLQ&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                   </div>
                 </div>
                 <div class= "carousel-item">

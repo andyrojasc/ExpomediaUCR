@@ -1,5 +1,12 @@
 @import 'media-queries';
-$information-phone: "only screen and (max-width : 800px)";
+$information-phone: "only screen and (max-width : 990px)";
+$information-photos: "only screen and (max-width : 700px)";
+.editPhotos{
+  width: 50%!important;
+  @media #{$information-photos} {
+      width: 100%!important;
+    }
+}
 
 .actividades{
     margin-top: 7%;
@@ -241,7 +248,11 @@ section.range-slider input::-webkit-slider-thumb {
 }
 
 .titlePage h1{
+      margin-bottom: 50px!important;
+      
+      @media #{$information-phone} {
       margin-bottom: 20px!important;
+    }
 }
 
 .carousel-indicators li:hover{

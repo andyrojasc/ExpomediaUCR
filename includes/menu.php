@@ -13,17 +13,23 @@
                 <li class="nav-item ">
                     <a class="nav-link letras" href="./index.php">Principal</a>
                 </li>
+                <li class="nav-item">
+
+                    <a class="nav-link letras" href="php/inscripciones.php">Inscribirse</a>
+
+                </li>
                 <li class="nav-item ">
-                    <a class="nav-link letras" href="php/videos.php">Talleres</a>
+                    <a class="nav-link letras" href="php/videos.php">Streamings</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link letras" href="php/torneos.php">Torneos</a>
                 </li>
                 <li class="nav-item">
 
-                    <a class="nav-link letras" href="php/stands.php">Stands</a>
-
+                    <a class="nav-link letras" href="php/conferencistas-capacitadores.php">Conferencistas</a>
                 </li>
+
+            
             </ul>
         </div>
     </div>
