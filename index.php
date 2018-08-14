@@ -58,7 +58,7 @@
                <section class="range-slider col-9 col-sm-6 no-gutters">
   		          <p class="rangeValues"></p>
 
-  		          <input id="inputslide1" class="slider" value="7" min="7" max="15" step="1" type="range" onchange="cronograma();">
+  		          <input id="inputslide1" class="slider" value="7" min="7" max="16" step="1" type="range" onchange="cronograma();">
   		          <input id="inputslide2" class="slider" value="8" min="7" max="16" step="1" type="range">
   	        </section>
             <!-- </div> -->
@@ -68,111 +68,343 @@
         </div>
 
         <div class="col-sm-9 cards">
-          <!-- Primeros 4 a mostrar -->
+          <!--Actividades 7y30-->
           <div id="Activo7">
             <!-- Cada actividad -->
               <div class="col-lg-12">
                 <div class="card w-85 espaciado">
-              <div class="card-body">
-                <h5 class="card-title">7:30-8:00</h5>
-                <p class="card-text">Primeros</p>
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Encargados Expomedia</h5>
+                <p class="card-text">Registro Colegios</p>
 
               </div>
             </div>
               </div>
               <!-- Cada actividad -->
-
-               <!-- Cada actividad -->
-              <div class="col-lg-12">
-                <div class="card w-85 espaciado">
-              <div class="card-body">
-                <h5 class="card-title">7:30-8:00</h5>
-                <p class="card-text">Primeros</p>
-
-              </div>
             </div>
-              </div>
-              <!-- Cada actividad -->
+          <!--Actividades 7y30-->
 
-               <!-- Cada actividad -->
-              <div class="col-lg-12">
-                <div class="card w-85 espaciado">
-              <div class="card-body">
-                <h5 class="card-title">7:30-8:00</h5>
-                <p class="card-text">Primeros</p>
-
-              </div>
-            </div>
-              </div>
-              <!-- Cada actividad -->
-
-               <!-- Cada actividad -->
-              <div class="col-lg-12">
-                <div class="card w-85 espaciado">
-              <div class="card-body">
-                <h5 class="card-title">7:30-8:00</h5>
-                <p class="card-text">Primeros</p>
-
-              </div>
-            </div>
-              </div>
-              <!-- Cada actividad -->
-          </div>
-
-          <!-- Fin de los primeros 4 a mostrar-->
-
-           <!-- Primeros 4 a mostrar -->
+           <!-- Actividades 8am -->
           <div id="Activo8">
             <!-- Cada actividad -->
               <div class="col-lg-12">
                 <div class="card w-85 espaciado">
-              <div class="card-body">
-                <h5 class="card-title">7:30-8:00</h5>
-                <p class="card-text">Segundos</p>
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Encargados Expomedia</h5>
+                <p class="card-text">Inauguración</p>
 
               </div>
             </div>
               </div>
               <!-- Cada actividad -->
-
-               <!-- Cada actividad -->
+              <!-- Cada actividad -->
               <div class="col-lg-12">
                 <div class="card w-85 espaciado">
-              <div class="card-body">
-                <h5 class="card-title">7:30-8:00</h5>
-                <p class="card-text">Primeros</p>
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Invitado</h5>
+                <p class="card-text">Videos Mezclados en vivo</p>
+
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad --><!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Marlon Cascante Productor de Canu Arts</h5>
+                <p class="card-text">Los videojuegos como un medio de vida</p>
+
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad --><!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Aaron Galagarza</h5>
+                <p class="card-text">Taller de Servidor Web en CentOS </p>
+
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad --><!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Sebastian Brenes</h5>
+                <p class="card-text">Diseño y Coloreado Digital de Personajes</p>
 
               </div>
             </div>
               </div>
               <!-- Cada actividad -->
-
                <!-- Cada actividad -->
               <div class="col-lg-12">
                 <div class="card w-85 espaciado">
-              <div class="card-body">
-                <h5 class="card-title">7:30-8:00</h5>
-                <p class="card-text">Primeros</p>
-
-              </div>
-            </div>
-              </div>
-              <!-- Cada actividad -->
-
-               <!-- Cada actividad -->
-              <div class="col-lg-12">
-                <div class="card w-85 espaciado">
-              <div class="card-body">
-                <h5 class="card-title">7:30-8:00</h5>
-                <p class="card-text">Primeros</p>
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Briam Mora (CIDEV)</h5>
+                <p class="card-text">Taller de Introducción al Desarrollo de Video Juegos con Unity</p>
 
               </div>
             </div>
               </div>
               <!-- Cada actividad -->
           </div>
+          <!-- Actividades 8am -->
 
-          <!-- Fin de los primeros 4 a mostrar-->
+            <!--Actividades 9am-->
+          <div id="Activo9">
+            <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Stands(todo el dia)</h5>
+                <p class="card-text">Stand ITM</p>
+                <p class="card-text">Stand Software Libre</p>
+                <p class="card-text">Stand Programación</p>
+                <p class="card-text">Stand Web y Móviles</p>
+                <p class="card-text">Stand Fotografía</p>
+                <p class="card-text">Stand Animación</p>
+                <p class="card-text">Stand Tatuajes Temporales</p>
+                <p class="card-text">Stand CIDEV</p>
+
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+            </div>
+          <!--Actividades 9am-->
+
+           <!--Actividades 10am-->
+          <div id="Activo10">
+            <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Flauta Traversa Covers Electronico</h5>
+                <p class="card-text">Show en Vivo Armando Álvarez Ledezma</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+            </div>
+          <!--Actividades 10am-->
+
+              <!--Actividades 11am-->
+          <div id="Activo11">
+            <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Sebastian Brenes</h5>
+                <p class="card-text">Show en Vivo Sebastián Brenes</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+               <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Adrian Retana</h5>
+                <p class="card-text">El dibujo y la pintura como heramientas de diseño</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+               <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Christian Vargas y Diego Mora (Morpho)</h5>
+                <p class="card-text">¿Cómo se hizo la primera etapa la mini-serie animada "Felix el Robot"?</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+               <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Juan Pablo</h5>
+                <p class="card-text">Los VideoJuegos Hijos de la Guerra Fría</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+            </div>
+          <!--Actividades 11am-->
+           <!--Actividades 12md-->
+          <div id="Activo12">
+            <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Big Band</h5>
+                <p class="card-text">Presentación Soundtracks de Video Juegos</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+               <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Almuerzo</h5>
+                <p class="card-text">Hora de almorzar :)</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+            </div>
+          <!--Actividades 12md-->
+          <!--Actividades 1pm-->
+          <div id="Activo13">
+            <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Invitado</h5>
+                <p class="card-text">Videos Mezclados en Vivo</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+               <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Adrian Retana</h5>
+                <p class="card-text">Reto de Dibujo</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+              <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Leonardo Jimenez Quijano (RID Centro de Informática UCR)</h5>
+                <p class="card-text">Edición de OpenStreetMap, el mejor mapa que existe</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+               <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Nick González</h5>
+                <p class="card-text">Desarrollo Para Dispositivos Móviles</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+               <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Juan Carlos Umanzor</h5>
+                <p class="card-text">Introduccion a R</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+                <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">CIDEV</h5>
+                <p class="card-text">Torneo de Video Juego</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+               <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Sharlyn Chacon Fonseca</h5>
+                <p class="card-text">Introducción a PixelArt</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+            </div>
+          <!--Actividades 1pm-->
+           <!--Actividades 2pm-->
+          <div id="Activo14">
+            <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Estudiante de Gestion Cultural</h5>
+                <p class="card-text">Show en Vivo</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+            </div>
+          <!--Actividades 2pm-->
+           <!--Actividades 3pm-->
+          <div id="Activo15">
+            <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Estudiante de Informatica Empresarial</h5>
+                <p class="card-text">Show en Vivo</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+              <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Hector Alejandro Santos, Irwin Cespedes, Carlos Lara, Johnny Aguilar</h5>
+                <p class="card-text">Conversatorio con Fotógrafos</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+               <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Maria de la O</h5>
+                <p class="card-text">Introducción a la Creación de Artículos Científicos por medio de LATEX</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+              <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Informatica y Tecnologia Multimedia</h5>
+                <p class="card-text">Taller ITM</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+            </div>
+          <!--Actividades 3pm-->
+           <!--Actividades 4pm-->
+          <div id="Activo16">
+            <!-- Cada actividad -->
+              <div class="col-lg-12">
+                <div class="card w-85 espaciado">
+              <div class="card-body centrarHorario">
+                <h5 class="card-title">Informatica y Tecnologia Multimedia</h5>
+                <p class="card-text">Show en Vivo</p>
+              </div>
+            </div>
+              </div>
+              <!-- Cada actividad -->
+            </div>
+          <!--Actividades 4pm-->
+
         </div>
 
 
