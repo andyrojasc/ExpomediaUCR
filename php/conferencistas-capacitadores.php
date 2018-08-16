@@ -23,7 +23,7 @@
           <?php @include('../includes/menu2.php'); ?>
         </div>
       </div>
-      <div class="row">
+      <div class="row" id="contenido-pagina2">
         <div id="img-header" class="imgHeader col-sm-12">
           <img src="../assets/images/torneoHeader.png" alt="Ganadores-pasados-del-torneo-de-League-of-Legends">
         </div>
