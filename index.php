@@ -54,10 +54,17 @@
 
           <!-- Input Range -->
           <div class="row justify-content-center">
+            <div id="animacion">
+                <img id="imgBarraAnimacion" src="assets/images/barra1.png">
+            <img id="imgManoAnimacion" src="assets/images/mano1.png">
+            </div>
+          
+            
+
             <!-- <div class="col-9 col-sm-6 no-gutters"> -->
                <section class="range-slider col-9 col-sm-6 no-gutters">
   		          <p class="rangeValues"></p>
-
+                
   		          <input id="inputslide1" class="slider" value="7" min="7" max="16" step="1" type="range" onchange="cronograma();">
   		          <input id="inputslide2" class="slider" value="8" min="7" max="16" step="1" type="range">
   	        </section>
