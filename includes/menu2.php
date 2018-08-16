@@ -17,9 +17,9 @@
                     <a class="nav-link letras" href="inscripciones.php">Inscribirse</a>
 
                 </li>
-                <li class="nav-item ">
+             <!--    <li class="nav-item ">
                     <a class="nav-link letras" href="videos.php">Streamings</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link letras" href="torneos.php">Torneos</a>
                 </li>
