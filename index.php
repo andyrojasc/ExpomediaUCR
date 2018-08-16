@@ -301,7 +301,7 @@
               <div class="col-lg-12">
                 <div class="card w-85 espaciado">
               <div class="card-body centrarHorario">
-                <h5 class="card-title">Nick González</h5>
+                <h5 class="card-title">Nick Gonzalez</h5>
                 <p class="card-text">Desarrollo Para Dispositivos Móviles</p>
               </div>
             </div>
@@ -331,8 +331,8 @@
               <div class="col-lg-12">
                 <div class="card w-85 espaciado">
               <div class="card-body centrarHorario">
-                <h5 class="card-title">Sharlyn Chacon Fonseca</h5>
-                <p class="card-text">Introducción a PixelArt</p>
+                <h5 class="card-title">Raul Venegas</h5>
+                <p class="card-text">Pixel Art: make the pixels great again</p>
               </div>
             </div>
               </div>
