@@ -34,7 +34,7 @@
   <br>
   <div id="contenido-pagina">
 
-    <div class="jumbotron jumbotron-fluid">
+    <div class="jumbotron jumbotron-fluid titlePageCon">
       <div class="container padding-box">
         <h1 class="text-center" style="font-size: 2rem">CONFERENCISTAS Y CAPACITADORES</h1>
       </div>
@@ -50,33 +50,60 @@
               <div class="carousel-inner ">
                 <!--Primera linea-->
                 <div class="carousel-item active" data-interval="0">
-                  <img class="d-block rounded mx-auto " src="../assets/images/editPS03.jpg" alt="First slide">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/canu.png" alt="First slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block rounded mx-auto " src="../assets/images/editPS04.jpg" alt="Second slide">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/morpho.png" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block rounded mx-auto " src="../assets/images/editPS01.jpg" alt="Third slide">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/morpho.png" alt="Third slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block rounded mx-auto " src="../assets/images/editPS02.jpg" alt="First slide">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/chino.png" alt="First slide">
                 </div>
                 <!--Segunda linea-->
                 <div class="carousel-item">
-                  <img class="d-block rounded mx-auto " src="../assets/images/editPS05.jpg" alt="Second slide">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/adrian.png" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block rounded mx-auto " src="../assets/images/editPS04.jpg" alt="Third slide">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/nick.png" alt="Third slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block rounded mx-auto " src="../assets/images/editPS06.jpg" alt="First slide">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/leo.png" alt="First slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block rounded mx-auto " src="../assets/images/editPS06.jpg" alt="eighth slide">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/aron.png" alt="eighth slide">
                 </div>
                 <!--Tercera linea-->
                 <div class="carousel-item">
-                  <img class="d-block rounded mx-auto " src="../assets/images/editPS01.jpg" alt="Third slide">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/umanzor.png" alt="First slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/maria.png" alt="Second slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/raul.png" alt="First slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/CIDEV.png" alt="Second slide">
+                </div>
+                <!--Cuarta linea-->
+                <div class="carousel-item">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/juanpa.png" alt="First slide">
+                </div>
+
+
+                <div class="carousel-item">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/hector.png" alt="First slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/irwin.png" alt="First slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/carlos.png" alt="First slide">
+                </div>
+                <div class="carousel-item">
+                  <img class="d-block rounded mx-auto " src="../assets/images/conferen/johnny.jpg" alt="First slide">
                 </div>
               </div>
             </div>
@@ -88,121 +115,165 @@
         <div class="col-12 col-md-7 col-lg-5 card-padding-bottom">
           <div class="">
 
-           <div id="texto1" class="card bg-light mb-3 align-self-start" style="max-width: 100%;">
-            <div class="card-header text-center"><h2>John Wayne - Conferencista</h2></div>
-            <div class="card-body">
+           <div id="texto1" class="card bg-light mb-3 align-self-start alineartop" style="max-width: 100%;">
+            <div class="card-header text-center centrarConfTitulo"><h2>Marlon Cascante</h2></div>
+            <div class="card-body centrarConfCuerpo">
 
-              <h6 class="card-text">Diseñador Creativo, Fotógrafo Profesional y Productor Audiovisual costarricense/estadounidense. Ha incursionado en el área
-                de la fotografía por más de 20 años y ha sido un fotógrafo independiente desde sus inicios.
-                <br> En el año 2012 formó su propia academia JWA.CRC ®, en donde transmite de manera independiente sus conocimientos
-                como fotógrafo profesional. Además, fue invitado especial para impartir clases y compartir sus conocimientos
-              en universidades tanto estatales como privados en todo el país.</h6>
-              <i class="fas fa-info-circle"><a href="https://universidades.cr/carreras/fotografia">   Más información sobre el conferencista</a></i>
+              <h6 class="card-text alinearTexto">Director ejecutivo de CanuArts.
+                <br>
+                <br> En el año 2014 formo parte del desarrollo de un videojuego llamado "Los Secretos de la Madre Tierra", donde expreso que desde niño siempre soño formar parte del proceso de la creación de videojuegos y que con los años este sueño se hizo realidad al formar parte de CanuArts.</h6>
+              <i class="fas fa-info-circle"><a href="http://www.canuarts.com" target="_blank">Más información sobre el conferencista</a></i>
             </div>
           </div><!--card1-->
 
           <div id="texto2" class="card bg-light mb-3" style="max-width: 100%; display:none;">
-            <div class="card-header "><h2>Clint Eastwood - Conferencista</h2></div>
-            <div class="card-body">
-              <h6 class="card-text"> Es un Database Manager, Scrum Master y Big Data: Web Mining costarricense/inglés, dedicado al desarrollo de software de análisis
-                de datos aplicados y aprendizaje estadístico automático (statistical machine learning) y a empresas para
-                la resolución de problemas en una pymes, mediana o grande empresa.
-                <br> También se centra en análisis avanzados, que incluyen análisis predictivos, análisis de redes sociales,
-                análisis de texto y enfoques de análisis de big data. Creó su propia empresa en el 2013 y le brindado sus
-              servicios a empresas como Corporación Pipasa, Florida Bebidas, Belcorp Costa Rica, entre otras.</h6>
-              <i class="fas fa-info-circle"><a href="https://www.tec.ac.cr/fundatec/especializacion-big-data-specialist">   Más información sobre el conferencista</a></i>
+            <div class="card-header  text-center centrarConfTitulo"><h2>Christian Vargas</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Supervisor del equipo de Morpho Animation Studio, el cual esta enfocado en producir contenido infantil. Dicho estudio creo la mini serie "Felix el Robot"</h6>
+              <i class="fas fa-info-circle"><a href="http://www.morpho.tv/" target="_blank">Más información sobre su lugar de trabajo</a></i>
             </div>
           </div>
 
 
           <div id="texto3" class="card bg-light mb-3" style="max-width: 100%; display:none;">
-            <div class="card-header "><h2>Dayanna Jimenez - Conferencista</h2></div>
-            <div class="card-body">
+            <div class="card-header  text-center centrarConfTitulo"><h2>Diego Mora Espinoza</h2></div>
+            <div class="card-body centrarConfCuerpo">
 
-              <h6 class="card-text">Cocreadora de la empresa de desarrollo de videojuegos Point Break, empresa dedicada a crear simuladores con tecnología de
-              VR (virtual reality o realidad virtual) y juegos educativos sobre el manejo adecuado de los residuos sólidos,
-              enseñanza sobre la contaminación sónica, enfermedades transmitidas por el mosquito Aedes aegypti (dengue,
-              zika y chikungunya), en contra del matonismo (bullying), entre otros hacia el público meta dentro del rango
-              de edad 7 a 15 años.</h6>
-              <i class="fas fa-info-circle"><a href="http://flowlab.io/">Más información sobre la conferencista</a></i>
+              <h6 class="card-text alinearTexto"> Directo de arte en Morpho Animation Studio, el cual esta enfocado en producir contenido infantil. En el 2003 decidió empezar sus estudios en la Universidad de Costa Rica como diseñador gráfico. 
+                <br>
+              Anteriormente laboro en Walmart y Café Britt como diseñador gráfico.</h6>
+              <i class="fas fa-info-circle"><a href="http://flowlab.io/" target="_blank">Más información sobre el conferencista</a></i>
             </div>
           </div>
 
 
           <div id="texto4" class="card bg-light mb-3" style="max-width: 100%; display:none;">
-            <div class="card-header"><h2>Sebastian Brenes - Capacitador</h2></div>
-            <div class="card-body">
-              <h6 class="card-text">Estudiante de la carrera de Informática y Tecnología Multimedia, influenciado por su padre (escultor) y madre (profesora
+            <div class="card-header text-center centrarConfTitulo"><h2>Sebastian Brenes</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto">Estudiante de la carrera de Informática y Tecnología Multimedia, influenciado por su padre (escultor) y madre (profesora
               de ballet) se dedicó a pulir sus habilidades en el dibujo. Tuvo la oportunidad de acompañar a su padre a
               hacer esculturas indígenas costarricense en Francia y fue invitado a dar un taller sobre dibujo en una Convención
               anual de anime japonés en Puntarenas y San José.</h6>
-              <i class="fas fa-info-circle"><a href="https://www.facebook.com/sebastian.brenes.9">Más información sobre el capacitador</a></i>
+              <i class="fas fa-info-circle"><a href="https://www.facebook.com/SebastianBrenesArt/" target="_blank">Más información sobre el capacitador</a></i>
             </div>
           </div>
 
 
            <div id="texto5" class="card bg-light mb-3" style="max-width: 100%; display:none;">
-            <div class="card-header"><h2>Enrique Soto V - Capacitador</h2></div>
-            <div class="card-body">
-              <h6 class="card-text">Es un Ingeniero de software costarricense, dedicado al desarrollo de planos para integrarlos en arduinos y raspberry pi.
-              Comenzó como un hobby y poco a poco el conocimiento fue creciendo a tal punto que pasó de hablar sobre hardware
-              libre a sus compañeros de trabajo a ser invitado a dar conferencias en eventos de la comunidad del software
-              libre.</h6>
-              <i class="fas fa-info-circle"><a href="https://www.hwlibre.com/">Más información sobre el capacitador</a></i>
+            <div class="card-header text-center centrarConfTitulo"><h2>Adrian Retana Molina</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Adrian Retana es un conocido ilustrador freelancer desde el año 2013. Posee un alto manejo de los software de adobe como illustrator, photoshop e inDesign. <br>
+              Ha participado en múltiples proyectos como ilustrador</h6>
+              <i class="fas fa-info-circle"><a href="https://adrianr.artstation.com/
+" target="_blank">Más información sobre el capacitador</a></i>
             </div>
           </div>
 
 
           <div id="texto6" class="card bg-light mb-3" style="max-width: 100%; display:none;">
-            <div class="card-header"><h2>Andy Vasquez - Capacitador</h2></div>
-            <div class="card-body">
-              <h6 class="card-text">Es un estudiante de Informática Empresarial de la Universidad de Costa Rica que se interesó como hobbie en trabajar con los
-              arduinos porque al ser una plataforma de código abierto (open-source) basada en hardware y software podía
-              crear prototipos flexibles y fáciles de usar para crear objetos o entornos interactivos.
-              <br> Por el momento, no está trabajando en una empresa pero su nombre es conocido en la comunidad de Software
-              Libre.</h6>
-              <i class="fas fa-info-circle"> <a href="https://www.facebook.com/groups/arduinocr/about/">Más información sobre el capacitador</a></i>
+            <div class="card-header text-center centrarConfTitulo"><h2>Nick González</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Es desarrollador de software en la empresa "Mr Rabbit", realizó sus estudios en la Universidad de Costa Rica donde consiguío ser bachiller en informática empresarial y licenciatura en la Universidad Técnica Nacional.</h6>
+              <i class="fas fa-info-circle"> <a href="https://www.linkedin.com/in/nick-gonz%C3%A1lez-5aba2070/" target="_blank">Más información sobre el capacitador</a></i>
             </div>
           </div>
 
 
           <div id="texto7" class="card bg-light mb-3" style="max-width: 100%; display:none;">
-            <div class="card-header"><h2>Lucas Mora C. - Capacitador</h2></div>
-            <div class="card-body">
-              <h6 class="card-text">Es un Máster Profesional en Computación e Informática y es egresado de la carrera de Computación con énfasis en Ingeniería
-              de software de la Universidad de Costa Rica. Trabajó para Twitter en la parte del mantenimiento de la aplicación,
-              Google y eventualmente creó una empresa con varios colegas de su anterior lugar de trabajo.
-              <br> Se dedica a la creación de aplicativos para celular para empresas privadas, ha trabajado para instituciones
-              públicas como asesor y en algunas ocasiones es profesor en varias universidades privadas de Costa Rica.</h6>
-              <i class="fas fa-info-circle"><a href="https://www.xamarin.com">Más información sobre el capacitador</a></i>
+            <div class="card-header text-center centrarConfTitulo"><h2>Leonardo Jiménez Quijano</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Su nombre es sumamente escuchado en la comunidad de software libre de la Universidad de Costa Rica, forma parte del centro de informática de la UCR.
+                <br>
+              En su charla hablará sobre el OpenStreetMap, uno de los mejores mapas que existen actualmente</h6>
+              <i class="fas fa-info-circle"><a href="https://twitter.com/leojimenezcr?lang=es" target="_blank">Más información sobre el capacitador</a></i>
             </div>
           </div>
 
          
           <div id="texto8" class="card bg-light mb-3" style="max-width: 100%; display:none;">
-            <div class="card-header"><h2>Josefina Torres - Capacitadora</h2></div>
-            <div class="card-body">
-              <h6 class="card-text">Estudió en la Facultad de Bellas Artes como Diseñadora gráfica y trabajó para varias maquilas haciendo diseños para terceros.
-              Eventualmente observó el potencial de las aplicaciones y estudió en varios cursos online de programación
-              para acreditarse con el objetivo final de crear su propia empresa, Solar Baboon, de desarrollo de aplicaciones.
-              <br> Al pasar de los años, la empresa también trabaja en el desarrollo de aplicaciones híbridas por las ventajas
-              que a los usuarios y por su bajo costo de producción.</h6>
-              <i class="fas fa-info-circle"><a href="https://aplicacionesmovil.com/tecnologia/desarrollo-de-aplicaciones-hibridas/">Más información sobre la capacitadora</a></i>
+            <div class="card-header text-center centrarConfTitulo"><h2>Aarón Galagarza</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Estudió informática empresarial en la Universidad de Costa Rica y actualmente es el director de la comunidad de software libre en la misma universidad. Labora como profesor de los cursos de programación impartidos en la carrera de informática empresarial.</h6>
+              <i class="fas fa-info-circle"><a href="https://www.linkedin.com/in/aaron-galagarza-77907860/" target="_blank">Más información sobre Aarón Galagarza</a></i>
             </div>
           </div>
 
   
           <div id="texto9" class="card bg-light mb-3" style="max-width: 100%; display:none;">
-            <div class="card-header"><h2>Monica Rodríguez S. - Capacitadora</h2></div>
-            <div class="card-body">
-              <h6 class="card-text">Programadora egresada de la carrera de Ingeniería en Computación del Tecnológico de Costa Rica (TEC). Se dedica al frontend
-              y backend del desarrollo de páginas web en la empresa Cisne Rojo ubicada en Alajuela. La empresa se dedica
-              a la venta de servicios a instituciones estatales como la Municipalidad de Escazú, Instituto Nacional de
-              la Mujer, Municipalidad de San Carlos, entre otros.</h6>
-              <i class="fas fa-info-circle"><a href="https://developers.google.com/web/progressive-web-apps/">Más información sobre la capacitadora</a></i>
+            <div class="card-header text-center centrarConfTitulo"><h2>Juan Carlos Umanzor</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Master en Sistemas de información, especialista y apasionado por las tecnologías de Bases de Datos y la astronomía, actualmente labora como profesor de diversos cursos de bases de datos en la Universidad de Costa Rica.</h6>
+              <i class="fas fa-info-circle"><a href="https://www.umanzor.com/" target="_blank">Más información sobre Juan Carlos Umanzor</a></i>
             </div>
           </div>
           
+          <div id="texto10" class="card bg-light mb-3" style="max-width: 100%; display:none;">
+            <div class="card-header text-center centrarConfTitulo"><h2>Maria de la O Montero</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Actual estudiante de la carrera de informática empresarial en la Universidad de Costa Rica, cursa su segundo año y es egresada del Colegío Cientifico Costarricense sede de Puntarenas.
+                <br>Es una participante activa en la comunidad de software libre.</h6>
+              <i class="fas fa-info-circle"><a href="#">Más información sobre la capacitadora</a></i>
+            </div>
+          </div>
+
+          <div id="texto11" class="card bg-light mb-3" style="max-width: 100%; display:none;">
+            <div class="card-header text-center centrarConfTitulo"><h2>Raúl Venegas</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Graduado de bachiller en la carrera de Informática y Tecnología Multimedia en la Universidad de Costa Rica, actualmente es programador fullstack developer, se dedica al pixelArt y otras tareas relacionadas con el tema.</h6>
+              <i class="fas fa-info-circle"><a href="https://www.linkedin.com/in/vuraul94/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_top%3BgRrnvQaCRg6hRa%2FI0yt3fw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_search_srp_top-search_srp_result&lici=YJ9uSD9ATuSm7ff3ytZ69Q%3D%3D" target="_blank">Más información sobre el capacitador</a></i>
+            </div>
+          </div>
+          
+          <div id="texto12" class="card bg-light mb-3" style="max-width: 100%; display:none;">
+            <div class="card-header text-center centrarConfTitulo"><h2>Brian Mora</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Forma parte de la comunidad interuniversitaria de desarrollo de videojuegos, o en sus siglas CIDeV, la cual es una organizadora y patrocinadora de los gameJam universitarios</h6>
+              <i class="fas fa-info-circle"><a href="http://www.cidev-cr.com/jams/2018/1/" target="_blank">Más información sobre el CIDeV</a></i>
+            </div>
+          </div>
+
+          <div id="texto13" class="card bg-light mb-3" style="max-width: 100%; display:none;">
+            <div class="card-header text-center centrarConfTitulo"><h2>Juan Pablo Lopez Valverde</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Juan Pablo se encuentra cursando su tercer año de carrera en la Universidad de Costa Rica, amante de la programación web se intereso por la carrera de Informática y tecnología multimedia. <br>Nos acomapaña en la expomedia con la charla "Los Videojuegos Hijos de la Guerra Fría"</h6>
+              <i class="fas fa-info-circle"><a href="https://www.facebook.com/jpLopezValverde" target="_blank">Más información sobre el capacitadora</a></i>
+            </div>
+          </div>
+
+
+
+
+          <div id="texto14" class="card bg-light mb-3" style="max-width: 100%; display:none;">
+            <div class="card-header text-center centrarConfTitulo"><h2>Héctor Alejandro Santos</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Graduado de ingeniería agrónoma y amante de la fotografía fue invitado a la expomedia para formar parte del conversatorio con fotógrafos</h6>
+              <i class="fas fa-info-circle"><a href="http://fotoclubcostarica.com/Associated/detalle/NjQw" target="_blank">Más información sobre el capacitadora</a></i>
+            </div>
+          </div>
+
+          <div id="texto15" class="card bg-light mb-3" style="max-width: 100%; display:none;">
+            <div class="card-header text-center centrarConfTitulo"><h2>Irwin Céspedes</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Es el actual director del Colegio científico sede de Puntarenas, donde comenzó su carrera como profesor de inglés, luego formaba parte de la administración del colegio. Fotógrafo por pasión, genera la mayoría del contenido audio visual haciendo que el colegio ahorre dinero en ese aspecto.</h6>
+              <i class="fas fa-info-circle"><a href="https://irwincespedesphoto.myportfolio.com/works" target="_blank">Más información sobre el capacitadora</a></i>
+            </div>
+          </div>
+
+          <div id="texto16" class="card bg-light mb-3" style="max-width: 100%; display:none;">
+            <div class="card-header text-center centrarConfTitulo"><h2>Carlos Lara</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Carlos Lara es un amante de la fotografía, actualmente habita en la provincia de Puntarenas y será parte del conversatorio con fotógrafos en la expomedia.</h6>
+              <i class="fas fa-info-circle"><a href="https://m.facebook.com/CarlosLaraPhoto/" target="_blank">Más información sobre el capacitadora</a></i>
+            </div>
+          </div>
+
+          <div id="texto17" class="card bg-light mb-3" style="max-width: 100%; display:none;">
+            <div class="card-header text-center centrarConfTitulo"><h2>Johnny Aguilar</h2></div>
+            <div class="card-body centrarConfCuerpo">
+              <h6 class="card-text alinearTexto"> Fotógrafo aficionado de amaneceres y atardeceres. actualmente habita en la provincia de Puntarenas y es marino de profesión. Actualmente labora como educador en el Instituto Nacional de Aprendizaje.</h6>
+              <i class="fas fa-info-circle"><a href="https://www.fotocommunity.es/photographer/johnny-aguilar/2131592" target="_blank">Más información sobre el capacitadora</a></i>
+            </div>
+          </div>
 
         </div>
       </div>
@@ -226,9 +297,9 @@
           <a id="primero" onclick="info1()">
             <div class="card">
               <div data-target="#carouselExampleControls" data-slide-to="0">
-                <img class="card-img-top" src="../assets/images/editPS03.jpg" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <img class="card-img-top" src="../assets/images/conferen/canu.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
                 <div class="card-body card-footer text-muted">
-                  <h5 class="card-title newH3">John Wayne</h5>
+                  <h5 class="card-title newH3">Marlon Cascante</h5>
                 </div>
               </div>
             </div>
@@ -240,9 +311,9 @@
           <a id="segundo" onclick="info2()">
             <div class="card">
               <div data-target="#carouselExampleControls" data-slide-to="1">
-                <img class="card-img-top" src="../assets/images/editPS04.jpg" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <img class="card-img-top" src="../assets/images/conferen/morpho.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
                 <div class="card-body card-footer text-muted">
-                  <h5 class="card-title newH3">Clint Eastwood</h5>
+                  <h5 class="card-title newH3">Christian Vargas</h5>
                 </div>
               </div>
             </div>
@@ -254,9 +325,9 @@
           <a id="tercero" onclick="info3()">
             <div class="card">
               <div data-target="#carouselExampleControls" data-slide-to="2">
-                <img class="card-img-top" src="../assets/images/editPS01.jpg" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <img class="card-img-top" src="../assets/images/conferen/morpho.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
                 <div class="card-body card-footer text-muted">
-                  <h5 class="card-title newH3">Dayanna Jimenez</h5>
+                  <h5 class="card-title newH3">Diego Mora Espinoza</h5>
                 </div>
               </div>
             </div>
@@ -268,7 +339,7 @@
           <a id="cuarto" onclick="info4()">
             <div class="card">
               <div data-target="#carouselExampleControls" data-slide-to="3">
-                <img class="card-img-top" src="../assets/images/editPS02.jpg" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <img class="card-img-top" src="../assets/images/conferen/chino.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
                 <div class="card-body card-footer text-muted">
                   <h5 class="card-title newH3">Sebastian Brenes</h5>
                 </div>
@@ -289,9 +360,9 @@
           <a id="quinto" onclick="info5()">
             <div class="card">
               <div data-target="#carouselExampleControls" data-slide-to="4">
-                <img class="card-img-top" src="../assets/images/editPS05.jpg" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <img class="card-img-top" src="../assets/images/conferen/adrian.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
                 <div class="card-body card-footer text-muted">
-                  <h5 class="card-title newH3">Enrique Soto</h5>
+                  <h5 class="card-title newH3">Adrian Retana Molina </h5>
                 </div>
               </div>
             </div>
@@ -303,9 +374,9 @@
           <a id="sexto" onclick="info6()">
             <div class="card">
               <div data-target="#carouselExampleControls" data-slide-to="5">
-                <img class="card-img-top" src="../assets/images/editPS04.jpg" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <img class="card-img-top" src="../assets/images/conferen/nick.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
                 <div class="card-body card-footer text-muted">
-                  <h5 class="card-title newH3">Andy Vasquez</h5>
+                  <h5 class="card-title newH3">Nick Gonzalez</h5>
                 </div>
               </div>
             </div>
@@ -317,9 +388,9 @@
           <a id="septimo" onclick="info7()">
             <div class="card">
               <div data-target="#carouselExampleControls" data-slide-to="6">
-                <img class="card-img-top" src="../assets/images/editPS06.jpg" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <img class="card-img-top" src="../assets/images/conferen/leo.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
                 <div class="card-body card-footer text-muted">
-                  <h5 class="card-title newH3">Lucas Mora C.</h5>
+                  <h5 class="card-title newH3">Leonardo Jimenez Quijano</h5>
                 </div>
               </div>
             </div>
@@ -331,9 +402,9 @@
           <a id="octavo" onclick="info8()">
             <div class="card">
               <div data-target="#carouselExampleControls" data-slide-to="7">
-                <img class="card-img-top" src="../assets/images/editPS06.jpg" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <img class="card-img-top" src="../assets/images/conferen/aron.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
                 <div class="card-body card-footer text-muted">
-                  <h5 class="card-title newH3">Josefina Torres</h5>
+                  <h5 class="card-title newH3">Aaron Galagarza</h5>
                 </div>
               </div>
             </div>
@@ -350,17 +421,127 @@
           <a id="noveno" onclick="info9()">
             <div class="card">
               <div data-target="#carouselExampleControls" data-slide-to="8">
-                <img class="card-img-top" src="../assets/images/editPS01.jpg" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <img class="card-img-top" src="../assets/images/conferen/umanzor.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
                 <div class="card-body card-footer text-muted">
-                  <h5 class="card-title newH3">Monica Rodriguez S.</h5>
+                  <h5 class="card-title newH3">Juan Carlos Umanzor</h5>
                 </div>
               </div>
             </div>
           </a>
         </div>
         <!--fin col img #8-->
+
+        <div class="col-6 col-md-3 card-padding-bottom">
+          <a id="decimo" onclick="info10()">
+            <div class="card">
+              <div data-target="#carouselExampleControls" data-slide-to="9">
+                <img class="card-img-top" src="../assets/images/conferen/maria.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <div class="card-body card-footer text-muted">
+                  <h5 class="card-title newH3">Maria de la O Montero</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-6 col-md-3 card-padding-bottom">
+          <a id="undecimo" onclick="info11()">
+            <div class="card">
+              <div data-target="#carouselExampleControls" data-slide-to="10">
+                <img class="card-img-top" src="../assets/images/conferen/raul.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <div class="card-body card-footer text-muted">
+                  <h5 class="card-title newH3">Raul Venegas</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-6 col-md-3 card-padding-bottom">
+          <a id="duodecimo" onclick="info12()">
+            <div class="card">
+              <div data-target="#carouselExampleControls" data-slide-to="11">
+                <img class="card-img-top" src="../assets/images/conferen/CIDEV.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <div class="card-body card-footer text-muted">
+                  <h5 class="card-title newH3">Brian Mora</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <!--fin col img #10-->
       </div>
       <!--fin del row-->
+
+      <div class="row justify-content-center">
+        <div class="col-6 col-md-3 card-padding-bottom">
+          <a id="treceavo" onclick="info13()">
+            <div class="card">
+              <div data-target="#carouselExampleControls" data-slide-to="12">
+                <img class="card-img-top" src="../assets/images/conferen/juanpa.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <div class="card-body card-footer text-muted">
+                  <h5 class="card-title newH3">Juan Pablo Lopez</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-6 col-md-3 card-padding-bottom">
+          <a id="catorceavo" onclick="info14()">
+            <div class="card">
+              <div data-target="#carouselExampleControls" data-slide-to="13">
+                <img class="card-img-top" src="../assets/images/conferen/hector2.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <div class="card-body card-footer text-muted">
+                  <h5 class="card-title newH3">Hector Alejandro Santos</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-6 col-md-3 card-padding-bottom">
+          <a id="quinceavo" onclick="info15()">
+            <div class="card">
+              <div data-target="#carouselExampleControls" data-slide-to="14">
+                <img class="card-img-top" src="../assets/images/conferen/irwin.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <div class="card-body card-footer text-muted">
+                  <h5 class="card-title newH3">Irwin Cespedes</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+
+        <div class="col-6 col-md-3 card-padding-bottom">
+          <a id="dieciseisavo" onclick="info16()">
+            <div class="card">
+              <div data-target="#carouselExampleControls" data-slide-to="15">
+                <img class="card-img-top" src="../assets/images/conferen/carlos.png" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <div class="card-body card-footer text-muted">
+                  <h5 class="card-title newH3">Carlos Lara</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+<!--fin del row-->
+      <div class="row justify-content-center">
+        <div class="col-6 col-md-3 card-padding-bottom">
+          <a id="diecisieteavo" onclick="info17()">
+            <div class="card">
+              <div data-target="#carouselExampleControls" data-slide-to="16">
+                <img class="card-img-top" src="../assets/images/conferen/johnny.jpg" alt="agregar descripcionnnnnnnnnnnnnnnnnnnnnnnn">
+                <div class="card-body card-footer text-muted">
+                  <h5 class="card-title newH3">Johnny Aguilar</h5>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
 
 
     </div>
