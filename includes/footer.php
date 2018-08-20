@@ -17,7 +17,7 @@
   </div>   -->
 
   <!--Fin del footer-->
-<!--   <div class="container-fluid footer-dark vFooter align-items-center">
+  <div class="container-fluid footer-dark vFooter align-items-center">
     <div class="row">
       <div class="col-12 col-md-4">
         <h3 class="text-center">Sigue la expomedia</h3>
@@ -43,16 +43,4 @@
     </ul>
   </div>
 </div>
-</div> -->
-
-<footer>
-  <div class="copyright">
-    <p>&copy 2018 - Expomedia</p>
-  </div>
-  <div class="social">
-  
-    <a href="https://www.facebook.com/groups/itm.ucr/" target="_blank" class="face"><i class="fab fa-lg fa-facebook-square"></i></a>
-    <a href="https://twitter.com/ITMUCR?lang=es" target="_blank" class="tweet"><i class="fab fa-lg fa-twitter-square"></i></a>
-    <a href="https://www.instagram.com/itm_ucr/?hl=es-la" target="_blank" class="insta"><i class="fab fa-lg fa-instagram"></i></a>
-  </div>
-</footer>
+</div>

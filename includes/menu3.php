@@ -17,9 +17,6 @@
                     <a class="nav-link letras" href="inscripciones.php">Inscribirse</a>
 
                 </li>
-              <!--   <li class="nav-item ">
-                    <a class="nav-link letras" href="videos.php">Streamings</a>
-                </li> -->
                 <li class="nav-item">
                     <a class="nav-link letras" href="torneos.php">Torneos</a>
                 </li>
@@ -27,6 +24,9 @@
 
                     <a class="nav-link letras" href="../php/conferencistas-capacitadores.php">Conferencistas</a>
 
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link letras" href="creditos.php">Creditos</a>
                 </li>
             </ul>
         </div>

@@ -2,7 +2,8 @@
     $(document).ready(function() {
       $(window).scroll(function(){
         if (screen.width > 768) {
-          console.log('entró pc');
+        
+        //  console.log('entró pc');
           if ($(this).scrollTop() > 320) {
             $('nav').addClass('rosa');
           } else {
@@ -10,7 +11,6 @@
           }
         }
         else{
-          console.log("entró Responsive");
           if ($(this).scrollTop() > 200) {
             $('nav').addClass('rosa');
           } 
@@ -28,6 +28,5 @@
      function cambiarClaseVideo() {
            // añadir clase si no existía; eliminarla si ya existía
            document.getElementById("contenido-pagina").classList.toggle('efectoBluir');
-            document.getElementById("contenido-pagina2").classList.toggle('efectoBluir');
-           // document.getElementById("img-header").classList.toggle('efectoBluir');       
+           document.getElementById("img-header").classList.toggle('efectoBluir');       
      }
