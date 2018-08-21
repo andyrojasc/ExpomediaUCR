@@ -11,6 +11,15 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" 
   integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
   <title>Expomedia | UCR</title>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124159094-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-124159094-1');
+</script>
 </head>
 <body id="bgIndex">
   <header>
@@ -51,16 +60,23 @@
       </div>
       <div class="row cronogramabarra justify-content-center">
         <div class="col-12 col-lg-3 bgSlider">
-
+          
           <!-- Input Range -->
           <div class="row justify-content-center">
+            <div id="animacion">
+                <img id="imgBarraAnimacion" src="assets/images/barra1.png">
+            <img id="imgManoAnimacion" src="assets/images/mano1.png">
+            </div>
+          
+            
+
             <!-- <div class="col-9 col-sm-6 no-gutters"> -->
                <section class="range-slider col-9 col-sm-6 no-gutters">
-                <p class="rangeValues"></p>
-
-                <input id="inputslide1" class="slider" value="7" min="7" max="16" step="1" type="range" onchange="cronograma();">
-                <input id="inputslide2" class="slider" value="8" min="7" max="16" step="1" type="range">
-            </section>
+  		          <p class="rangeValues"></p>
+                
+  		          <input id="inputslide1" class="slider" value="7" min="7" max="16" step="1" type="range" onchange="cronograma();">
+  		          <input id="inputslide2" class="slider" value="8" min="7" max="16" step="1" type="range">
+  	        </section>
             <!-- </div> -->
           </div>
          
@@ -294,7 +310,7 @@
               <div class="col-lg-12">
                 <div class="card w-85 espaciado">
               <div class="card-body centrarHorario">
-                <h5 class="card-title">Nick González</h5>
+                <h5 class="card-title">Nick Gonzalez</h5>
                 <p class="card-text">Desarrollo Para Dispositivos Móviles</p>
               </div>
             </div>
@@ -324,8 +340,8 @@
               <div class="col-lg-12">
                 <div class="card w-85 espaciado">
               <div class="card-body centrarHorario">
-                <h5 class="card-title">Sharlyn Chacon Fonseca</h5>
-                <p class="card-text">Introducción a PixelArt</p>
+                <h5 class="card-title">Raul Venegas</h5>
+                <p class="card-text">Pixel Art: make the pixels great again</p>
               </div>
             </div>
               </div>
