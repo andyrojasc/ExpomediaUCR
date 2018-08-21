@@ -1,5 +1,5 @@
 /*Estilo para las imágenes*/
-
+$information-phone: "only screen and (max-width : 990px)";
   .personaA{
 	width: 70%;
   height: 62%;
@@ -19,8 +19,7 @@
 		padding-bottom: 7%!important;
   }
 }
-
-.titlePageCon{
+ .titlePageCon{
       margin-top: -93px;
     padding-bottom: 0;
     @media #{$information-phone} {
@@ -39,7 +38,7 @@
 .centrarConfTitulo{
   height:63px;
    @media #{$information-phone} {
-    height:109px!important;
+    height:58px!important;
   }
 
   // padding: 2.8rem 1.25rem !important;
@@ -47,11 +46,11 @@
 .centrarConfCuerpo{
   height:352px;
       // padding: 3.25rem!important;
+      @media #{$information-phone} {
+    height:300px!important;
+  }
+
 }
-
-
-
-
 .newH3{
 	text-align: center;
 }

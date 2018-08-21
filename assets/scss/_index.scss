@@ -159,6 +159,17 @@ section.range-slider {
   display:none;
   overflow-y: auto;
  }
+ .scrollStyle{
+  overflow-y:auto!important;
+}
+.scrollStyle::-webkit-scrollbar{
+@include scrollbar-style;
+}
+.scrollStyle::-webkit-scrollbar-thumb {
+@include scrollbar-style-thumb;
+}
+
+
 
 
 #Activo8{

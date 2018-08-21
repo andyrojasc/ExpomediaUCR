@@ -1,6 +1,6 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-<head>
+ <!DOCTYPE html>
+<html lang="en" dir="ltr"> 
+<head style="overflow-x: hidden;">
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -23,7 +23,7 @@
 </style>
 </head>
 
-<body class="BodyBg">
+<body class="BodyBg" style="overflow-x: hidden;">
   <header>
     <div class="container-fluid">
       <div class="row">
@@ -65,7 +65,7 @@
               <div class="img-container">
                 <img class="img-responsive" src="../assets/images/creditos/andy.png">
               </div>
-              <div class="mc-description">
+              <div class="mc-description scrollStyle">
                 Estudiante de 3° año de Informática y Tecnología Multimedia, amante de la programación, seguridad informática y desarrollo de software. Forma parte de la comunidad de software libre.
               </div>
             </div>
@@ -96,7 +96,7 @@
               <div class="img-container">
                 <img class="img-responsive" src="../assets/images/creditos/kaylor.png">
               </div>
-              <div class="mc-description">
+              <div class="mc-description scrollStyle">
                 Estudiante de 21 años originario de Miramar, cursa el 3° año de la carrera de Informática y Tecnología Multimedia, activista estudiantil y social.
               </div>
             </div>
@@ -127,7 +127,7 @@
               <div class="img-container">
                 <img class="img-responsive" src="../assets/images/creditos/leandro.png">
               </div>
-              <div class="mc-description">
+              <div class="mc-description scrollStyle">
                 Estudiante de cuarto año de la carrera de Informática y Tecnología Multimedia de la Universidad de Costa Rica, actualmente practicante de Instituto Nacional de Seguros.
               </div>
             </div>
@@ -157,7 +157,7 @@
               <div class="img-container">
                 <img class="img-responsive" src="../assets/images/creditos/miranda.png">
               </div>
-              <div class="mc-description">
+              <div class="mc-description scrollStyle">
                 Profesor de la Universidad de Costa Rica en la carrera Informática y Tecnología Multimedia. Profesional en el diseño y desarrollo de páginas web.
               </div>
             </div>
@@ -180,7 +180,8 @@
         
       </div>
       <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
-        <article class="material-card Pink">
+        <article class="material-card Pink" style="width: 95%;
+    margin-left: 3%;">
             <h2>
               <span class="text-white">Juan Pablo López</span>
               <strong>
@@ -192,7 +193,7 @@
               <div class="img-container">
                 <img class="img-responsive" src="../assets/images/creditos/juanpa.png">
               </div>
-              <div class="mc-description">
+              <div class="mc-description scrollStyle">
                 Estudiante de 3° año de Informática y Tecnología Multimedia, aficionado de la cultura indígena y de la historia nacional.
               </div>
             </div>
@@ -235,7 +236,7 @@
               <div class="img-container">
                 <img class="img-responsive" src="../assets/images/creditos/camila.png">
               </div>
-              <div class="mc-description">
+              <div class="mc-description scrollStyle">
                 Estudiante de Informática y Tecnología Multimedia. Ha trabajado como freelance en diseño gráfico desde el 2016.
               </div>
             </div>
@@ -265,7 +266,7 @@
               <div class="img-container">
                 <img class="img-responsive" src="../assets/images/creditos/jordy.png">
               </div>
-              <div class="mc-description">
+              <div class="mc-description scrollStyle">
                 Estudiante de 3° año de Informática y Tecnología Multimedia, apasionado por el desarrollo de software y la seguridad.
               </div>
             </div>
@@ -297,7 +298,7 @@
               <div class="img-container">
                 <img class="img-responsive" src="../assets/images/creditos/keneth.png">
               </div>
-              <div class="mc-description">
+              <div class="mc-description scrollStyle">
                 Estudiante de la carrera Informática y Tecnología Multimedia, cursa su tercer año de carrera y es aficionado de la maquetación web.
               </div>
             </div>

@@ -125,7 +125,7 @@
 
 				      <option>Edición de OpenStreetMap, el mejor mapa que existe</option>
 				      <option>Taller de Servidor Web en CentOS</option>
-				      <option>Taller Introducción a R</option>
+				      <option>Taller Introducción a cassandra</option>
 				      <option>Taller de Introducción a la Creación de Artículos Científicos por medio de LATEX</option>
 				      <option>Taller de Introducción a PixelArt</option>
 				      <option>Taller de Introducción al Desarrollo de Video Juegos con Unity</option>
