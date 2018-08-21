@@ -26,7 +26,7 @@
         $('#boton-menu').click(cambiarClaseVideo); //verificamos el elemento btn menu y llamamos una funcion
      
             function cambiarClaseVideo() {
-             
+            
 
                   // añadir clase si no existía; eliminarla si ya existía
                   document.getElementById("videoITM").classList.toggle('efectoBluirVideo');

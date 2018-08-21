@@ -23,6 +23,15 @@
 	  firebase.initializeApp(config);
 	</script>
  <title>ExpoMedia | Inscripciones</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124159094-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-124159094-1');
+</script>
 </head>
 <body class="BodyBg">
   <!-- inicio header -->
