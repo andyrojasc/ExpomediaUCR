@@ -129,7 +129,6 @@
 				      <option>Taller de Introducción a la Creación de Artículos Científicos por medio de LATEX</option>
 				      <option>Taller de Introducción a PixelArt</option>
 				      <option>Taller de Introducción al Desarrollo de Video Juegos con Unity</option>
-				      <option>Taller ITM</option>
 				    </select>
 				    <small id="formhelp" class="form-text text-muted">¡Cuidado inscribes 2 talleres a la misma hora!</small>
 				  </div>
