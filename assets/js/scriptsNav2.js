@@ -28,5 +28,6 @@
      function cambiarClaseVideo() {
            // añadir clase si no existía; eliminarla si ya existía
            document.getElementById("contenido-pagina").classList.toggle('efectoBluir');
-           document.getElementById("img-header").classList.toggle('efectoBluir');       
+           document.getElementById("contenido-pagina2").classList.toggle('efectoBluir');
+           // document.getElementById("img-header").classList.toggle('efectoBluir');       
      }

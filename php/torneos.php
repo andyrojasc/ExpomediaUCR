@@ -26,7 +26,7 @@
     <!-- navbar -->
  <?php @include('../includes/menu2.php'); ?>
       <!-- navbar -->
-      <div class="container-fluid">
+         <div id="contenido-pagina2" class="container-fluid">
         <div class="row">
           <div class="imgHeader col-xs-12 col-sm-12 col-md-12 col-lg-12 img-fluid"><img src="../assets/images/torneoHeader.png" alt="Ganadores-pasados-del-torneo-de-League-of-Legends"></div>
         </div>

@@ -74,8 +74,8 @@
                <section class="range-slider col-9 col-sm-6 no-gutters">
   		          <p class="rangeValues"></p>
                 
-  		          <input id="inputslide1" class="slider" value="7" min="7" max="16" step="1" type="range" onchange="cronograma();">
-  		          <input id="inputslide2" class="slider" value="8" min="7" max="16" step="1" type="range">
+  		          <input id="inputslide1" class="slider" value="7" min="7" max="15" step="1" type="range" onchange="cronograma();">
+  		          <input id="inputslide2" class="slider" value="8" min="7" max="15" step="1" type="range">
   	        </section>
             <!-- </div> -->
           </div>
@@ -208,16 +208,6 @@
 
               <!--Actividades 11am-->
           <div id="Activo11">
-            <!-- Cada actividad -->
-              <div class="col-lg-12">
-                <div class="card w-85 espaciado">
-              <div class="card-body centrarHorario">
-                <h5 class="card-title">Sebastian Brenes</h5>
-                <p class="card-text">Show en Vivo Sebastián Brenes</p>
-              </div>
-            </div>
-              </div>
-              <!-- Cada actividad -->
                <!-- Cada actividad -->
               <div class="col-lg-12">
                 <div class="card w-85 espaciado">
@@ -243,7 +233,7 @@
                 <div class="card w-85 espaciado">
               <div class="card-body centrarHorario">
                 <h5 class="card-title">Juan Pablo</h5>
-                <p class="card-text">Los VideoJuegos Hijos de la Guerra Fría</p>
+                <p class="card-text">Los juegos: hijos de la Guerra Fría</p>
               </div>
             </div>
               </div>
@@ -252,16 +242,6 @@
           <!--Actividades 11am-->
            <!--Actividades 12md-->
           <div id="Activo12">
-            <!-- Cada actividad -->
-              <div class="col-lg-12">
-                <div class="card w-85 espaciado">
-              <div class="card-body centrarHorario">
-                <h5 class="card-title">Big Band</h5>
-                <p class="card-text">Presentación Soundtracks de Video Juegos</p>
-              </div>
-            </div>
-              </div>
-              <!-- Cada actividad -->
                <!-- Cada actividad -->
               <div class="col-lg-12">
                 <div class="card w-85 espaciado">
@@ -321,7 +301,7 @@
                 <div class="card w-85 espaciado">
               <div class="card-body centrarHorario">
                 <h5 class="card-title">Juan Carlos Umanzor</h5>
-                <p class="card-text">Introduccion a R</p>
+                <p class="card-text">Introduccion a Cassandra</p>
               </div>
             </div>
               </div>
@@ -348,32 +328,8 @@
               <!-- Cada actividad -->
             </div>
           <!--Actividades 1pm-->
-           <!--Actividades 2pm-->
-          <div id="Activo14">
-            <!-- Cada actividad -->
-              <div class="col-lg-12">
-                <div class="card w-85 espaciado">
-              <div class="card-body centrarHorario">
-                <h5 class="card-title">Estudiante de Gestion Cultural</h5>
-                <p class="card-text">Show en Vivo</p>
-              </div>
-            </div>
-              </div>
-              <!-- Cada actividad -->
-            </div>
-          <!--Actividades 2pm-->
            <!--Actividades 3pm-->
           <div id="Activo15">
-            <!-- Cada actividad -->
-              <div class="col-lg-12">
-                <div class="card w-85 espaciado">
-              <div class="card-body centrarHorario">
-                <h5 class="card-title">Estudiante de Informatica Empresarial</h5>
-                <p class="card-text">Show en Vivo</p>
-              </div>
-            </div>
-              </div>
-              <!-- Cada actividad -->
               <!-- Cada actividad -->
               <div class="col-lg-12">
                 <div class="card w-85 espaciado">
@@ -389,37 +345,13 @@
                 <div class="card w-85 espaciado">
               <div class="card-body centrarHorario">
                 <h5 class="card-title">Maria de la O</h5>
-                <p class="card-text">Introducción a la Creación de Artículos Científicos por medio de LATEX</p>
-              </div>
-            </div>
-              </div>
-              <!-- Cada actividad -->
-              <!-- Cada actividad -->
-              <div class="col-lg-12">
-                <div class="card w-85 espaciado">
-              <div class="card-body centrarHorario">
-                <h5 class="card-title">Informatica y Tecnologia Multimedia</h5>
-                <p class="card-text">Taller ITM</p>
+                <p class="card-text">Introducción a Confección de Artículos Científicos por medio de Latex</p>
               </div>
             </div>
               </div>
               <!-- Cada actividad -->
             </div>
           <!--Actividades 3pm-->
-           <!--Actividades 4pm-->
-          <div id="Activo16">
-            <!-- Cada actividad -->
-              <div class="col-lg-12">
-                <div class="card w-85 espaciado">
-              <div class="card-body centrarHorario">
-                <h5 class="card-title">Informatica y Tecnologia Multimedia</h5>
-                <p class="card-text">Show en Vivo</p>
-              </div>
-            </div>
-              </div>
-              <!-- Cada actividad -->
-            </div>
-          <!--Actividades 4pm-->
 
         </div>
 
