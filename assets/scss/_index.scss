@@ -7,7 +7,26 @@ $information-photos: "only screen and (max-width : 700px)";
     width: 100%!important;
   }
 }
-
+#imgManoAnimacion{
+        position: absolute;
+    margin-left: -56px;
+    margin-top: 1px;
+    width: 134px;
+  
+}
+#imgBarraAnimacion{
+        position: absolute;
+    margin-left: -56px;
+    margin-top: 14px;
+    width: 134px;
+  
+}
+#animacion{
+     position: absolute;
+    /* top: 50px; */
+    margin-left: -12px;
+    margin-top: 108px;
+}
 .actividades{
   margin-top: 7%;
   color:white;
@@ -32,7 +51,7 @@ $information-photos: "only screen and (max-width : 700px)";
 }
 
 .textoIndex{
-	color:white;
+  color:white;
   font-family:'MontserratRegular';
 
   padding-bottom: 7%;
@@ -49,7 +68,7 @@ $information-photos: "only screen and (max-width : 700px)";
 }
 
 .espaciado{
-	margin-top: 10px;
+  margin-top: 10px;
 }
 #slideshowactividades{
  @include respond-to($phone){
@@ -71,7 +90,7 @@ $information-photos: "only screen and (max-width : 700px)";
 
 
 section.range-slider {
-	margin-top: 187px;
+  margin-top: 187px;
   position: relative;
   width: 200px;
   height: 5px;
@@ -212,8 +231,8 @@ body::-webkit-scrollbar-thumb {
 }
 
 .cronogramatitulo{
-	background:#141414;
-	height: 100px;
+  background:#141414;
+  height: 100px;
 }
 
 .cronogramabarra{
@@ -272,7 +291,7 @@ body::-webkit-scrollbar-thumb {
 }
 .vacio h3{
 
-	margin-top: 35px;
+  margin-top: 35px;
   font-family:'BitsumisRegular';
   color: #1c1c1c;
   @include respond-to($phone){
@@ -313,10 +332,10 @@ body::-webkit-scrollbar-thumb {
 }
 
 .carousel-indicators li{ 
-	border-radius: 50%;
-	height: 8px;
-	width: 8px;	
-	margin-top: 10px;
+  border-radius: 50%;
+  height: 8px;
+  width: 8px; 
+  margin-top: 10px;
 }
 
 .indicadores{
@@ -332,15 +351,15 @@ body::-webkit-scrollbar-thumb {
 }
 
 .carousel-indicators li:hover{
-	background: white;
+  background: white;
 }
 
 .carousel-indicators .active{
-	background: white;
+  background: white;
 }
 
 .carousel-control-next, .carousel-control-prev{
-	color:white!important;
+  color:white!important;
 }
 
 .fond{
