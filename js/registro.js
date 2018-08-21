@@ -164,7 +164,7 @@
       v9++;
       }
 
-      if(taller==="Taller Introducción a R")
+      if(taller==="Taller Introducción a cassandra")
       {
         d10 += '<tr>'+
       '<td>'+nombre+'</td>'+

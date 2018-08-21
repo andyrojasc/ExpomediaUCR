@@ -1,4 +1,4 @@
- <nav id="mynav" class="navbar navbar-expand-lg navbar-dark  fixed-top">
+ <nav id="mynav" class="navbar navbar-expand-lg navbar-dark  fixed-top" style="width: 100%">
     <div class="container-fluid">
         <a class="navbar-brand" href="../index.php">
             <img src="../assets/images/logo-itm.png" class="img-responsive logo" alt="logo">
@@ -17,9 +17,6 @@
                     <a class="nav-link letras" href="inscripciones.php">Inscribirse</a>
 
                 </li>
-              <!--   <li class="nav-item ">
-                    <a class="nav-link letras" href="videos.php">Streamings</a>
-                </li> -->
                 <li class="nav-item">
                     <a class="nav-link letras" href="torneos.php">Torneos</a>
                 </li>
@@ -27,6 +24,9 @@
 
                     <a class="nav-link letras" href="../php/conferencistas-capacitadores.php">Conferencistas</a>
 
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link letras" href="creditos.php">Creditos</a>
                 </li>
             </ul>
         </div>

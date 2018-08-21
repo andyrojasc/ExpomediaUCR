@@ -1,22 +1,22 @@
 /*Estilo para las imágenes*/
-
+$information-phone: "only screen and (max-width : 990px)";
   .personaA{
-	width: 70%;
+  width: 70%;
   height: 62%;
   float: left;
   margin-left: 6.6%;
   margin-top: 3%;
   img{
-  	width: 100%;
+    width: 100%;
     height: 100%;
   }
 }
 
 /*Responsive del section*/
 .newSection{
-	@include respond-to($phone){
+  @include respond-to($phone){
     margin-bottom: 5%!important;
-		padding-bottom: 7%!important;
+    padding-bottom: 7%!important;
   }
 }
  .titlePageCon{
@@ -38,7 +38,7 @@
 .centrarConfTitulo{
   height:63px;
    @media #{$information-phone} {
-    height:109px!important;
+    height:58px!important;
   }
 
   // padding: 2.8rem 1.25rem !important;
@@ -46,29 +46,33 @@
 .centrarConfCuerpo{
   height:352px;
       // padding: 3.25rem!important;
+      @media #{$information-phone} {
+    height:300px!important;
+  }
+
 }
 .newH3{
-	text-align: center;
+  text-align: center;
 }
 
 /*Responsive para los h2*/
 .newH2{
-	@include respond-to($phone){
+  @include respond-to($phone){
     font-size: 1.4rem!important;
-		text-align: center;
+    text-align: center;
   }
 }
 
 /*Responsive para los col-6*/
 .marginCol6{
-	@include respond-to($phone){
+  @include respond-to($phone){
     margin-left: 15%;
-		padding-top: 5%;
+    padding-top: 5%;
   }
 }
 /*Estilo para cambiar las imágenes en el carousel*/
 .contenedor-Slide{
-	// width: 65%;
+  // width: 65%;
  //  height: 100%;
  //  float: left;
 
@@ -78,19 +82,19 @@
 
   img{
     position:relative;
-  	width: 100%!important;
+    width: 100%!important;
     margin:auto;
   //   margin-left: 20%;
-		// margin-bottom: 7%;
+    // margin-bottom: 7%;
   }
 }
 
 /*Estilo para el contenedor del texto*/
 .contenedor-Txt{
-	font-family: 'MontserratRegular';
-	width: 100%;
+  font-family: 'MontserratRegular';
+  width: 100%;
   height: 100%;
-	padding-right: 20px;
+  padding-right: 20px;
   float: left;
   div{
     margin-left: 10%;
@@ -99,19 +103,19 @@
 
 /*Estilo para el carousel*/
 .carousel-indicators li{
-	border-radius: 50%;
+  border-radius: 50%;
   height: 8px;
   width: 8px;
   margin-top: 10px;
   li:hover{
-  	background: white;
+    background: white;
   }
 }
 
 .carousel-indicators .active{
-	background: white;
+  background: white;
 }
 
 .carousel-control-next, .carousel-control-prev{
-	color:white!important;
+  color:white!important;
 }

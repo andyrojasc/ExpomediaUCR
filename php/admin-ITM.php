@@ -225,7 +225,7 @@
 		<!-- Para cada charla/taller -->
 			<div class="row">
 			    <div class="col-12">
-			        <h3 class="textoProductos">Taller de R</h3>
+			        <h3 class="textoProductos">Taller de cassandra</h3>
 			        <input type="" value="0" id="v10"> 
 			    </div>
 			</div>

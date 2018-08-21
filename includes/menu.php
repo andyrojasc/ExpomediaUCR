@@ -18,9 +18,6 @@
                     <a class="nav-link letras" href="php/inscripciones.php">Inscribirse</a>
 
                 </li>
-               <!--  <li class="nav-item ">
-                    <a class="nav-link letras" href="php/videos.php">Streamings</a>
-                </li> -->
                 <li class="nav-item">
                     <a class="nav-link letras" href="php/torneos.php">Torneos</a>
                 </li>
@@ -28,7 +25,9 @@
 
                     <a class="nav-link letras" href="php/conferencistas-capacitadores.php">Conferencistas</a>
                 </li>
-
+                <li class="nav-item ">
+                    <a class="nav-link letras" href="php/creditos.php">Creditos</a>
+                </li>
             
             </ul>
         </div>
