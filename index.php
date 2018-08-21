@@ -60,7 +60,7 @@
       </div>
       <div class="row cronogramabarra justify-content-center">
         <div class="col-12 col-lg-3 bgSlider">
-
+          
           <!-- Input Range -->
           <div class="row justify-content-center">
             <div id="animacion">
